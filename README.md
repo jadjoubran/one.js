@@ -3,10 +3,10 @@ one.js
 
 One API to rule them all.
 
-##Dependency
-[jquery](https://github.com/jquery/jquery)
+###Dependency
++[jquery](https://github.com/jquery/jquery)
 
-##Usage
+###Usage
 
 ```
 <script src="one.js" type="text/javascript"></script>
