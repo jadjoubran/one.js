@@ -4,7 +4,7 @@ one.js
 One API to rule them all.
 
 ###Dependency
-+[jquery](https://github.com/jquery/jquery)
++ [jquery](https://github.com/jquery/jquery)
 
 ###Usage
 
