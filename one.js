@@ -31,7 +31,7 @@ function One(options){
 
 	eyeem = new One({
 		"host":"https://www.eyeem.com/api/v2/",
-		"client_id":"6GgBoIo0xeSPutzDXWAMM8MLk0r1Xp6y"
+		"client_id":"YOUR_CLIENT_ID_HERE"
 	});
 
 	eyeem.get('search',{
